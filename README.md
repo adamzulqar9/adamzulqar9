@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Adam Zulqarnain currently working as a QA Specialist
-- 👀 I’m interested in Software Test Automation using python, JAVA, selenium, bash and other scripting languages
+- 👋 Hi, I’m Adam Zulqarnain
 - 🌱 I’m currently learning NodeJS, ReactJS, PhantomJS and a few others
-- 💞️ I’m looking to collaborate on any projects relating to python and JAVA
 - 📫 How to reach me: adam.zul@gmail.com
 
 <!---
